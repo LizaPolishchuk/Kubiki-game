@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Кибики от Лизки</string>
+    <string name="app_name">Кубики от Лизки</string>
+    <string name="noting">Пока что нет записей</string>
 </resources>
