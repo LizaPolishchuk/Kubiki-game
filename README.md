@@ -1,2 +1,2 @@
 # Kubiki-game
-Это мой первый проект, сделанный самостоятельно с нуля
+It is my first project created from scratch.
